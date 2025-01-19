@@ -1,0 +1,4 @@
+output_segments/
+*.mp4
+*.m4a
+.venv/*
