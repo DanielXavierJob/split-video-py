@@ -25,10 +25,10 @@ Make sure you have the following installed:
 
 ## Usage
 
-1. Save the script to a file, e.g., `split_video.py`.
+1. Save the script to a file, e.g., `main.py`.
 2. Run the script in your terminal or command prompt:
    ```bash
-   python split_video.py
+   python main.py
    ```
 3. Provide the path to your video file when prompted.
 4. Specify the maximum size (in megabytes) for each segment. If left blank, the default size is 10 MB.
